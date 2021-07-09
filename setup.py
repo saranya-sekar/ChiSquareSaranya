@@ -9,13 +9,13 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="chi-square-saranya",
-    version="1.0.1",
+    name="ChiSquareSaranya",
+    version="1.0.4",
     description="It Outputs if the required categorical column is dependent or independent of output categorical column",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/saranya-sekar/chi-square-saranya",
-	download_url = "https://github.com/saranya-sekar/chi-square-saranya/archive/refs/tags/final-02.tar.gz",
+    url="https://github.com/saranya-sekar/ChiSquareSaranya",
+	download_url = "https://github.com/saranya-sekar/ChiSquareSaranya/archive/refs/tags/version-01.tar.gz",
     author="Saranya Sekar",
     author_email="saranyatagore@yahoo.com",
     license="MIT",
