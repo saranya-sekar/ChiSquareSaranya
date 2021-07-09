@@ -25,7 +25,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    packages=["chi-square-saranya"],
+    packages=find_packages(),
     include_package_data=True,
     install_requires=[],
     

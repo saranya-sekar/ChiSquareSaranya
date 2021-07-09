@@ -57,5 +57,4 @@ def chi_squ(dataset_train_df,input_column,output_column):
         print("Retain H0,There is no relationship between 2 categorical variables",input_column)
 
 
-if __name__ == '__main__':
-    chi_squ(dataframe,input_column,output_column)
+
