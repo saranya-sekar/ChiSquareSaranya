@@ -15,6 +15,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/saranya-sekar/chi-square-saranya",
+    download_url = 'https://github.com/saranya-sekar/chi-square-saranya/archive/refs/tags/test02.tar.gz'
     author="Saranya Sekar",
     author_email="saranyatagore@yahoo.com",
     license="MIT",
